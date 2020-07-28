@@ -1,5 +1,5 @@
 name="Federations Unlocked"
-path="mod/Federations_Unlocked"
+path="mod/Federations Unlocked"
 picture="thumbnail.png"
 tags={
       "Balance"
