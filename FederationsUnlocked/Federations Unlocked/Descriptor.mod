@@ -1,4 +1,4 @@
-vertion="0.1"
+vertion="0.2"
 name="Federations Unlocked"
 picture="thumbnail.png"
 tags={
