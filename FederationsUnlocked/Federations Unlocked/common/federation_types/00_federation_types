@@ -31,11 +31,7 @@ default_federation = {
 	potential = {
 		always = yes
 	}
-	allow = {
-		custom_tooltip = {
-			fail_text = requires_actor_not_barbaric_despoilers
-			NOT = { has_valid_civic = civic_barbaric_despoilers }
-		}
+	allow = { }
 	}
 	levels = {
 		level_1 = { # Starting rank
@@ -297,13 +293,7 @@ trade_federation = {
 	potential = {
 		host_has_dlc = Federations
 	}
-	allow = {
-		custom_tooltip = {
-			fail_text = requires_megacorp_or_merchant
-			OR = {
-				is_megacorp = yes
-				has_valid_civic = civic_merchant_guilds
-			}
+	allow = { }
 		}
 		custom_tooltip = {
 			fail_text = requires_actor_not_barbaric_despoilers
@@ -578,15 +568,7 @@ research_federation = {
 	potential = {
 		host_has_dlc = Federations
 	}
-	allow = {
-		OR = {
-			is_materialist = yes
-			is_machine_empire = yes
-		}
-		custom_tooltip = {
-			fail_text = requires_actor_not_barbaric_despoilers
-			NOT = { has_valid_civic = civic_barbaric_despoilers }
-		}
+	allow = { }
 	}
 	levels = {
 		level_1 = { # Starting rank
@@ -847,9 +829,7 @@ military_federation = {
 	potential = {
 		host_has_dlc = Federations
 	}
-	allow = {
-		is_militarist = yes
-	}
+	allow = { }
 	levels = {
 		level_1 = { # Starting rank
 			experience = @xp_to_level_2 # Experience until next rank
@@ -1109,11 +1089,7 @@ hegemony_federation = {
 	potential = {
 		host_has_dlc = Federations
 	}
-	allow = {
-		OR = {
-			has_civic = civic_machine_servitor
-			is_authoritarian = yes
-		}
+	allow = { }
 	}
 	levels = {
 		level_1 = { # Starting rank
