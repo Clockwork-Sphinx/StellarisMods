@@ -1,5 +1,5 @@
-vertion="0.1"
-name="Federations Unlocked"
+name="Federations Freed"
+path="mod/FederationsUnlocked"
 picture="thumbnail.png"
 tags={
       "Balance"
