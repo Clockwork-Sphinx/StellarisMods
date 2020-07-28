@@ -1,6 +1,6 @@
 vertion="0.1"
 name="Federations Unlocked"
-path=""
+picture="thumbnail.png"
 tags={
       "Balance"
       "Diplomacy"

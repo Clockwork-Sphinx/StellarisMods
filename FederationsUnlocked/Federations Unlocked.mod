@@ -1,5 +1,6 @@
 name="Federations Unlocked"
 path="mod/FederationsUnlocked"
+picture="thumbnail.png"
 tags={
       "Balance"
       "Diplomacy"
