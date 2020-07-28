@@ -1,5 +1,5 @@
 name="Federations Unlocked"
-path=""
+path="mod/FederationsUnlocked"
 tags={
       "Balance"
       "Diplomacy"
