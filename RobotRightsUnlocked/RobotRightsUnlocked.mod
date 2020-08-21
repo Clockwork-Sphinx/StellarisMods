@@ -1,7 +1,7 @@
 name="Robot Rights Unlocked"
 path="mod/RobotRightsUnlocked"
 picture="thumbnail.png"
-version="0.1"
+version="0.2"
 tags={
 	"Balance"
 	"Events"
