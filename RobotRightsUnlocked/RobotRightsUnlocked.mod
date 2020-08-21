@@ -1,5 +1,5 @@
 name="Robot Rights Unlocked"
-path="mod/RobotRightsUnlocked"
+path="mod/Robot Rights Unlocked"
 picture="thumbnail.png"
 version="0.2"
 tags={
