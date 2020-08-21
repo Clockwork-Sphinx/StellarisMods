@@ -1,5 +1,5 @@
-name="No Machine Uprisings"
-path="mod/NoMachineUprisings"
+name="Robot Rights Unlocked"
+path="mod/RobotRightsUnlocked"
 picture="thumbnail.png"
 version="0.1"
 tags={

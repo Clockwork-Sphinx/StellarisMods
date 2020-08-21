@@ -1,5 +1,5 @@
 version="0.2"
-name="No Machine Uprisings"
+name="Robot Rights Unlocked"
 picture="thumbnail.png"
 tags={
       "Balance"
